@@ -9,10 +9,10 @@ This is the first login screen you see. If you have already registered, you can 
 For example, when users input their username and password, the application will check if it is valid before allowing
 access to the rest of the application.  if you are a new user, you can create a new account and proceed with registration.
 
+```The Login Page```
 
-![1](https://github.com/MANISH-SAHANI/Sign-In-and-Sign-Up-Using-JSP-and-Sevlet/assets/91081774/8a6a0fd9-b625-45d8-99b1-b5446e9c965c)
+![1](https://github.com/MANISH-SAHANI/Sign-In-and-Sign-Up-Using-JSP-and-Sevlet/assets/91081774/829e6d4e-160d-4c77-9c24-2580ac5e5a08)
 
+``` The SignUp Page ```
 
-
-
-![Screenshot (1029)](https://github.com/MANISH-SAHANI/Sign-In-and-Sign-Up-Using-JSP-and-Sevlet/assets/91081774/92449a58-e98d-45b8-a65f-2331312c62eb)
+![2](https://github.com/MANISH-SAHANI/Sign-In-and-Sign-Up-Using-JSP-and-Sevlet/assets/91081774/94cfa3b0-9b9d-4d7d-afea-ea0a4ca5374f)
